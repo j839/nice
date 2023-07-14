@@ -217,7 +217,7 @@ const bird = {
       } else if (pipe.moved) {
         UI.score.curr++;
         if (UI.score.curr >= 5) {
-          alert('You have won a Steam gift card!!! Here is the code: ');
+          alert('You have won a Steam gift card!!! now email me at justinhuang316@gmail.com 🤣');
         }
         SFX.score.play();
         pipe.moved = false;
